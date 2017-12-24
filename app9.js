@@ -26,4 +26,3 @@ function httpGet (index) {
  
 for (var i = 0; i < 3; i++)
   httpGet(i)
-  
